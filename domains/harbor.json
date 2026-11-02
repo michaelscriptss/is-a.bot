@@ -3,7 +3,7 @@
     "username": "michaelscriptss"
   },
   "records": {
-    "A": "51.161.93.20"
+    "A": ["51.161.93.20"]
   },
   "proxied": false
 }
